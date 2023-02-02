@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/heelpatel8" target="blank"><img src="https://img.shields.io/twitter/follow/heelpatel8?logo=twitter&style=for-the-badge" alt="heelpatel8" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA(JAVA)**
 
 - 👨‍💻 All of my projects are available at [https://heelpatel01.github.io/heel56.portfolio/](https://heelpatel01.github.io/heel56.portfolio/)
 
