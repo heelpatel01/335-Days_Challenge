@@ -1,4 +1,4 @@
-public class My57th_Sum_of_SubArrays {
+public class My59th_Kadanes_Sum_algorithm {
     public static void subarraysum(int arr[]){
         int maxsum=Integer.MIN_VALUE;
         int cursum=0;
