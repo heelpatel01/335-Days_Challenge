@@ -1,0 +1,15 @@
+h1,p{
+    color: red;
+    font-family:cursive;
+}
+img{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    
+}
+img:hover{
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+}
