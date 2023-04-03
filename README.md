@@ -1,7 +1,7 @@
 # 335-Days_Challenge
 -I Am Going To Start Giving Challenge To My Self From Today.  For The Coding 335 Days Without Miss Single Day.  -I Will Upload My Code Every Day On My GIT-HUB Repository.  -And Whole Report On LinkedIn Every Day
 
-<h1 align="center">Hi 👋, I'm Heel Patel</h1>
+<h1 align="center">, I'm Heel Patel</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/heelpatel8" target="blank"><img src="https://img.shields.io/twitter/follow/heelpatel8?logo=twitter&style=for-the-badge" alt="heelpatel8" /></a> </p>
