@@ -4,7 +4,7 @@ public class Main2 {
     public static void main(String[] args) {
         //Mathmatical operations:-
         System.out.println("Addition:- "+(5+5));
-        System.out.println("Multipication:- "+(5*5));
+        System.out.println("Multipication:- "+(5*10));
         System.out.println("Subtraction:- "+(5-5));
         System.out.println("Divide:- "+(10/2));
         System.out.println("Modulo:- "+(10%2));
