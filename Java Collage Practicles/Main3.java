@@ -1,4 +1,4 @@
-// Write a program to find prime number and find factorial of a number.
+// Write a program to find prime numbers and find factorial of a number.
 
 public class Main3 {
    public static void main(String[] args) {
